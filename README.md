@@ -26,7 +26,7 @@ I'm Mohammad I am 17 years old and love programming since I remember<br>I also l
   <a href="https://linkedin.com/in/mrafieefard" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://buymeacoffee.com/buymeacoffee.com/mrafieefard" target="_blank">
+  <a href="https://buymeacoffee.com/mrafieefard" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" alt="buymecoffee logo"  />
   </a>
 </div>
