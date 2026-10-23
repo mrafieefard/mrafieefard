@@ -5,11 +5,11 @@
 
 # 💫 About Me:
 
-I'm Mohammad a full-stack developer passionate about building Telegram & Discord bots, as well as developing web automation and scraping tools. I love solving problems through code and constantly exploring new technologies.
+I'm Mo, a full-stack developer passionate about building things that make life easier. I love solving problems through code and constantly exploring new technologies.
 
 My tech stack includes React for the frontend and FastAPI for the backend. For bot development, I work with Discord.py, Telethon, and Aiogram. I also specialize in web automation and scraping using Selenium, Puppeteer, and BeautifulSoup.
 
-When I'm not coding, you'll find me gaming—I love playing Call of Duty, Valorant, and Rainbow Six Siege.
+When I'm not coding, you'll find me gaming. I love playing Rainbow Six Siege.
 
 I'm always open to collaboration and new opportunities, so feel free to reach out! 🚀
 
